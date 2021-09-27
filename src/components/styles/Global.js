@@ -16,6 +16,11 @@ const GlobalStyles = createGlobalStyle`
     a{
         text-decoration: none;
     }
+    h1{
+        text-align:center;
+        padding: 1rem;
+        font-size: 55px;
+    }
 `
 
 export default GlobalStyles;

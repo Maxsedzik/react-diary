@@ -1,6 +1,9 @@
 import styled from 'styled-components';
 
 export const StyledHeader = styled.header`
+    *{
+        background-color: #000020;
+    }
     ul{
         display: flex;
         flex-direction: row;

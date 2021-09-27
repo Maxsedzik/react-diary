@@ -4,7 +4,7 @@ import { StyledBox } from './styles/Box.styled'
 const Home = () => {
     return (
         <StyledBox>
-            <h1>hom</h1>
+            <h1>LET'S ADD SOME NOTES</h1>
         </StyledBox>
     )
 }
